@@ -30,7 +30,7 @@ const  Footer = () => {
                             <a
                                 href="#"
                                 className="hover:text-white transition-colors duration-300">
-                                About
+                                About Us
                             </a>
                         </li>
                         <li>
